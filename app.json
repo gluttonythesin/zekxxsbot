@@ -1,7 +1,7 @@
 {
   "name": "zekxxsbot",
-  "description": "Made by @ZekXx",
-  "logo": "https://telegra.ph/file/8bee33b123d055a569969.jpg",
+  "description": "Made by @zekxxx,inspired by @HellxGodlike :D",
+  "logo": "https://telegra.ph/file/136d3cdc0e753bc2c7623.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -28,7 +28,7 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like @danish_00.",
+      "description": "Fill your Full name or Username like @zekxx.",
       "value": "",
       "required": false
     },
@@ -116,7 +116,7 @@
       "required": false
     },
     "GIT_REPO_NAME": {
-      "description": "Your repo name Example: 1Danish-00/DanishBot, but GITHUB_ACCESS_TOKEN must be setup first.",
+      "description": "Your repo name Example: zekxx/zexxsbot, but GITHUB_ACCESS_TOKEN must be setup first.",
       "value": "",
       "required": false
     },
