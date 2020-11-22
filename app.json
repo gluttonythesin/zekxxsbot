@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/HeLLxGodLike/HeLLxGodLike_bot/",
-  "website": "https://github.com/HeLLxGodLike/HeLLxGodLike_bot/",
-  "success_url": "https://t.me/HeLLxGodLike",
+  "repository": "https://github.com/zekxx/zekxxsbot/",
+  "website": "https://github.com/zekxx/zekxxsbot/",
+  "success_url": "https://t.me/zekxxx",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
